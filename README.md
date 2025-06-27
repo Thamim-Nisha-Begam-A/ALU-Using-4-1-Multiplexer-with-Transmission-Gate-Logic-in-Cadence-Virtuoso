@@ -1,0 +1,2 @@
+# ALU-Using-4-1-Multiplexer-with-Transmission-Gate-Logic-in-Cadence-Virtuoso
+This project demonstrates the implementation of a 1-bit ALU using 4×1 mux, entirely constructed from Transmission Gate Logic (TGL) within the Cadence Virtuoso environment. The design emphasizes minimal transistor-level logic and optimized switching behavior to perform basic logic operations—AND, OR, NAND, and NOR—selected via control lines.
